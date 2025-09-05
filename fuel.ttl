@@ -13,6 +13,7 @@
 <http://w3id.org/fuel> 
     a owl:Ontology ;
     dcterms:title "FUsion Energy Lexicon"@en ;
+    dcterms:title "Léxico de Energía de Fusión"@es ;
     dcterms:abstract "FUEL is a vocabulary designed to facilitate the interoperability of fusion energy data."@en;
     rdfs:comment "FUEL is a vocabulary designed to facilitate the interoperability of fusion energy data."@en ;
     dcterms:description "FUEL is a vocabulary designed to facilitate the interoperability of fusion energy data."@en ;
